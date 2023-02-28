@@ -1,0 +1,56 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(172, 255, 47, 0.482);
+}
+h1#principal{
+    text-align: center;
+    color: white;
+    margin: 0px;
+    background-color: rgb(51, 84, 2) ;
+}
+h1{
+    color: rgb(15, 93, 2);
+}
+
+div>h2:hover{
+    color: blue;
+}
+div>ul{
+    display: none;
+}
+div:hover>ul{
+    display: block;
+    background-color:  rgba(51, 84, 2, 0.716);
+    width: 150px;
+    border-radius: 10px;
+    
+}
+ li>a{
+    text-decoration: none;
+    color: black;
+ }
+ li>a:hover{
+    text-decoration: underline;
+    color: blue;
+ }
+ li>a:active{
+    color: red;
+ }
+
+.basico{
+    color: yellow;
+    text-shadow: 1px 1px 2px black;
+}
+.intermediario{
+    color:red;
+    text-shadow: 1px 1px 2px black;
+}
+.avançado{
+    color: black;
+    text-shadow: 1px 1px 2px black;
+}
+.topico{
+    text-align: center;
+    text-decoration: underline;
+  
+}
