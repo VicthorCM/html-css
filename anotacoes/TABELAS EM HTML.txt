@@ -1,0 +1,15 @@
+TABELAS EM HTML
+
+>TAGS: 
+Table, tr(table roll), th(table header),td(table data)
+border-collapes, vertiical align.
+
+>tabelas grandes:
+hierarquia= thead-tbody-tfoot;
+caption;
+
+>cabeçalho fixo:
+position:sticky top:0; position:relative;
+
+>mesclagem de células:
+colspan e rowspan
